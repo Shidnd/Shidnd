@@ -22,3 +22,5 @@
  ##
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samira-moura-ab178320b/)](https://www.linkedin.com/in/samira-moura-ab178320b/)
+  
+   ![Snake animation](https://github.com/shidnd/shidnd/blob/output/github-contribution-grid-snake.svg)
